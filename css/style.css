@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    left: 0;
+}
+
+nav{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aqua;
+    height: 3rem;
+    font-size: 1.2rem;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
