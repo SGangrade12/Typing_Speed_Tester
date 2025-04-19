@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ygVibFNWMpahL8YUq-z6" name="Page-1">
-        <mxGraphModel dx="1182" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1689" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -42,7 +42,7 @@
                     <mxGeometry x="660" y="520" width="105.5" height="16.88" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;DISPLAY FOR THE TEST CASE TEXT. THE TEXT CONTAINS ALL THE INDENTS AND PUNCTUATIONS AND IS TO BE COPIED EXACTLY ASWRITTEN FOR 100% ACCURACY&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-                    <mxGeometry x="1065" y="267.5" width="280" height="65" as="geometry"/>
+                    <mxGeometry x="1052.5" y="256.87" width="367.5" height="86.25" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="INPUT BOX FOR THE TEXT DIPLAYS YOUR VERSION OF THE TEST TEXT AND PROGRESS." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1065" y="385" width="270" height="100" as="geometry"/>
