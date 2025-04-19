@@ -1,74 +1,74 @@
 <mxfile host="65bd71144e">
     <diagram id="ygVibFNWMpahL8YUq-z6" name="Page-1">
-        <mxGraphModel dx="1454" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1182" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="90" width="890" height="490" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="TYPE_SPEED Tester" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="5" value="TYPE_SPEED Tester" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="430" y="100" width="180" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7" target="27">
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7" target="27" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1110" y="230" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" value="TEST TEXT&amp;nbsp; FOR TYPING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="TEST TEXT&amp;nbsp; FOR TYPING" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="100" y="250" width="840" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="TEXT AREA TO SEE YOUR WRITTEN TEXT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+                <mxCell id="20" value="TEXT AREA TO SEE YOUR WRITTEN TEXT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
                     <mxGeometry x="95" y="400" width="850" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="39">
+                <mxCell id="40" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="22" target="39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="RESET" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="22" value="RESET" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="462.25" y="520" width="105.5" height="16.88" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="23" target="36">
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23" target="36" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="313" y="640" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="START TEST" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="23" value="START TEST" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="260" y="520" width="105.5" height="16.88" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="24" target="42">
+                <mxCell id="43" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="24" target="42" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="CHANGE&amp;nbsp; TEXT" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="24" value="CHANGE&amp;nbsp; TEXT" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="660" y="520" width="105.5" height="16.88" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;DISPLAY FOR THE TEST CASE TEXT. THE TEXT CONTAINS ALL THE INDENTS AND PUNCTUATIONS AND IS TO BE COPIED EXACTLY ASWRITTEN FOR 100% ACCURACY&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="27" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;DISPLAY FOR THE TEST CASE TEXT. THE TEXT CONTAINS ALL THE INDENTS AND PUNCTUATIONS AND IS TO BE COPIED EXACTLY ASWRITTEN FOR 100% ACCURACY&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="1065" y="267.5" width="280" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="INPUT BOX FOR THE TEXT DIPLAYS YOUR VERSION OF THE TEST TEXT AND PROGRESS." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="29" value="INPUT BOX FOR THE TEXT DIPLAYS YOUR VERSION OF THE TEST TEXT AND PROGRESS." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1065" y="385" width="270" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="WPM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="31" value="WPM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="130" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="CPM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="32" value="CPM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="342.25" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="ACCURACY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="33" value="ACCURACY" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="567.75" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="TIME LEFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="34" value="TIME LEFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="800" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="STARTS THE TIMER FOR THE TEST AND ENBBLES THE USER TO START TYPING ON THE INPUT ZONE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="36" value="STARTS THE TIMER FOR THE TEST AND ENBBLES THE USER TO START TYPING ON THE INPUT ZONE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="227.75" y="660" width="170" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="RESETS THE INPUT TEXT AND CLEARS ALL THE TEXT IN THE INPUT BOX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="442.5" y="660" width="145" height="80" as="geometry"/>
+                <mxCell id="39" value="RESETS THE INPUT TEXT AND CLEARS ALL THE TEXT IN THE INPUT BOX" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="441.25" y="660" width="147.5" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="CHANGES TEXT FROM THE LIST OF TEXT PHRASES THAT ARE PRELOADED IN THE JS FILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="632.75" y="660" width="167.25" height="80" as="geometry"/>
+                <mxCell id="42" value="CHANGES TEXT FROM THE LIST OF TEXT PHRASES THAT ARE PRELOADED IN THE JS FILE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="629.13" y="660" width="167.25" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20" target="29">
+                <mxCell id="44" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="20" target="29" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="550" y="500" as="sourcePoint"/>
                         <mxPoint x="600" y="450" as="targetPoint"/>
